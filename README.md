@@ -41,7 +41,7 @@ Styling: CSS, Bootstrap
 
 ⿡ Clone the repository
 
-git :https://github.com/abhinavh-77/Resolvenow-your-platform-for-online-complaints
+git :https://github.com/RajaNaveen554/Resolvenow-your_platform_for_online_complaints/tree/main
 
 ⿢ Install Backend Dependencies:
 
